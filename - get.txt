@@ -1,0 +1,6 @@
+- get
+- put
+- post
+- delete
+
+
